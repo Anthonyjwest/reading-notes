@@ -28,7 +28,7 @@ To put it breifly, markdown is versatile, flexible, and be preserved throughout 
 
 Lets say you wanted to create a document and at the top of the page you want the header to read "My Life". How would we use syntax to create this? We would simply put "# My Life". That would create the biggest heading we can use! The "#" symbol indicates that the text will be a heading. But lets say you wanted to create the smallest heading underneath saying "Birthplace". Instead of using only one "#", we would use six, to get the smallest heading possible. So it would look like this "###### Birthplace". You may use any number one through six of "#" symbols to vary the size of your headings!
 
-Next lets learn how to bold or italicize text! There are two ways to achieve this, using the "*" or "_". I would recommend using the "*" symbol as it doesnt need spaces before and after your text. 
+Next lets learn how to bold or italicize text! There are two ways to achieve this, using the * or _. I would recommend using the * symbol as it doesnt need spaces before and after your text. 
 
 Now lets learn how to create a working link in your project! Lets say you wanted to create a link to a youtube video titled "Tutorial". First we would create the wrapping link text by surrounding it in brackets []. 
 
