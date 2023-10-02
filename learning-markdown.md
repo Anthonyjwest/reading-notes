@@ -2,7 +2,7 @@
 
 ## What is Markdown?
 
-Markdown is a [markup language](https://en.wikipedia.org/wiki/Markup_language) used to add formatting elements to plain text documents! Created by John Gruber in 2004, it is now one of the worlds most popular markup languages. Unlike microsoft office and other WYSIWYG applications, which allow you to click buttons and see changes immediatley. Markdown is different, in that when wanting to make formatting changes to words or phrases, you must use markdown syntax. This syntax is what actually dictates what the words or phrases will look like in your plain text document. 
+Markdown is a [markup language](https://en.wikipedia.org/wiki/Markup_language) used to add formatting elements to plain text documents! Created by John Gruber in 2004, it is now one of the worlds most popular markup languages. Unlike microsoft office and other WYSIWYG applications, which allow you to click buttons and see changes immediately. Markdown is different, in that when wanting to make formatting changes to words or phrases, you must use markdown syntax. This syntax is what actually dictates what the words or phrases will look like in your plain text document. 
 
 Now that you understand what markdown is, lets look at why we use it and the benefits it brings!
 
@@ -22,7 +22,7 @@ To put it breifly, markdown is versatile, flexible, and can be preserved through
 
 ### Preservation
 
-+ If the application you used suddenly stops working, the markdown formatted text can be easily read in a text editing appplication
++ If the application you used suddenly stops working, the markdown formatted text can be easily read in a text editing application
 
 # Applying Markdown Syntax
 
