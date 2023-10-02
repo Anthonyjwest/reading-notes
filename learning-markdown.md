@@ -8,7 +8,7 @@ Now that you understand what markdown is, lets look at why we use it and the ben
 
 ## Why do we use Markdown? 
 
-To put it breifly, markdown is versatile, flexible, and can be preserved throughout time! Lets look at these key points more closely. 
+To put it briefly, markdown is versatile, flexible, and can be preserved throughout time! Lets look at these key points more closely. 
 
 ### Versatile
 
