@@ -37,4 +37,4 @@ Line 4 - This command will bring us back to the last parent directory within our
 
 Line 5 - Finally were gonna list what is in the path /projects/new-project
 
-Line 6 would display "newfile.md" showing what was inside /newproject
+Line 6 would display "newfile.md" showing what was inside /new-project
