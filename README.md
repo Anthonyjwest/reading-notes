@@ -20,4 +20,4 @@ Hello my name is Anthony Westerfield and I live in Pennsylvania! I am 24 years o
 
 ## Table of contents
 
-![Learning Markdown](https://anthonyjwest.github.io/reading-notes/code-102%20classes/learning-markdown.html)
+[Learning Markdown](https://anthonyjwest.github.io/reading-notes/code-102%20classes/learning-markdown.html)
