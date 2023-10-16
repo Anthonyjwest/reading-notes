@@ -14,7 +14,7 @@ To track and stage one file, the command "git add 'filename'" would be used. To 
 
 ### What is the command to take a snapshot of your changed files?
 
-To create a snapshot of all modifications to tracked files in your working directory, use "git commit -a".
+To create a snapshot of all modifications to tracked files in your working directory, use "git commit -a". To take a snapshot of a single file with a message use command "git commit -m "message".
 
 ### What is the command to send your changed files to Github?
 
