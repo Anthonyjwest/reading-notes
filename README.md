@@ -10,18 +10,22 @@ This website is for my use during my classes at Code Fellows!
 
 ### Code 102 Reading Notes
 
-[Learning Markdown](https://anthonyjwest.github.io/reading-notes/code-102%20classes/learning-markdown.html)
+[Learning Markdown](https://anthonyjwest.github.io/reading-notes/code-102-classes/learning-markdown.html)
 
-[Coders Computer](https://anthonyjwest.github.io/reading-notes/code-102%20classes/coders-computer.html)
+[Coders Computer](https://anthonyjwest.github.io/reading-notes/code-102-classes/coders-computer.html)
 
-[Revisons and the Cloud](https://anthonyjwest.github.io/reading-notes/code-102%20classes/revisions-cloud.html)
+[Revisons and the Cloud](https://anthonyjwest.github.io/reading-notes/code-102-classes/revisions-cloud.html)
 
-[HTML](https://anthonyjwest.github.io/reading-notes/code-102%20classes/HTML.html)
+[HTML](https://anthonyjwest.github.io/reading-notes/code-102-classes/HTML.html)
 
-[CSS](https://anthonyjwest.github.io/reading-notes/code-102%20classes/CSS.html)
+[CSS](https://anthonyjwest.github.io/reading-notes/code-102-classes/CSS.html)
 
-[Javascript](https://anthonyjwest.github.io/reading-notes/code-102%20classes/Javascript.html)
+[Javascript](https://anthonyjwest.github.io/reading-notes/code-102-classes/Javascript.html)
 
-[Programming Javascript](https://anthonyjwest.github.io/reading-notes/code-102%20classes/Programming-Java.html)
+[Programming Javascript](https://anthonyjwest.github.io/reading-notes/code-102-classes/Programming-Java.html)
 
-[Operators and loops](https://anthonyjwest.github.io/reading-notes/code-102%20classes/Operators-loops.html)
+[Operators and loops](https://anthonyjwest.github.io/reading-notes/code-102-classes/Operators-loops.html)
+
+### Code 201 Reading notes
+
+[Class 1]()
