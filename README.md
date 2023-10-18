@@ -15,3 +15,13 @@ This website is for my use during my classes at Code Fellows!
 [Coders Computer](https://anthonyjwest.github.io/reading-notes/code-102%20classes/coders-computer.html)
 
 [Revisons and the Cloud](https://anthonyjwest.github.io/reading-notes/code-102%20classes/revisions-cloud.html)
+
+[HTML](https://anthonyjwest.github.io/reading-notes/code-102%20classes/HTML.html)
+
+[CSS](https://anthonyjwest.github.io/reading-notes/code-102%20classes/CSS.html)
+
+[Javascript](https://anthonyjwest.github.io/reading-notes/code-102%20classes/Javascript.html)
+
+[Programming Javascript](https://anthonyjwest.github.io/reading-notes/code-102%20classes/Programming-Java.html)
+
+[Operators and loops](https://anthonyjwest.github.io/reading-notes/code-102%20classes/Operators-loops.html)
