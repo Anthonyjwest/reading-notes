@@ -28,4 +28,32 @@ This website is for my use during my classes at Code Fellows!
 
 ### Code 201 Reading notes
 
-[Class 1]()
+[Class 1](https://anthonyjwest.github.io/reading-notes/code-201-classes/class-1.html)
+
+[Class 2](https://anthonyjwest.github.io/reading-notes/code-201-classes/class-2.html)
+
+[Class 3](https://anthonyjwest.github.io/reading-notes/code-201-classes/class-3.html)
+
+[Class 4](https://anthonyjwest.github.io/reading-notes/code-201-classes/class-4.html)
+
+[Class 5](https://anthonyjwest.github.io/reading-notes/code-201-classes/class-5.html)
+
+[Class 6](https://anthonyjwest.github.io/reading-notes/code-201-classes/class-6.html)
+
+[CLass 7](https://anthonyjwest.github.io/reading-notes/code-201-classes/class-7.html)
+
+[Class 8](https://anthonyjwest.github.io/reading-notes/code-201-classes/class-8.html)
+
+[Class 9](https://anthonyjwest.github.io/reading-notes/code-201-classes/class-9.html)
+
+[Class 10](https://anthonyjwest.github.io/reading-notes/code-201-classes/class-10.html)
+
+[Class 11](https://anthonyjwest.github.io/reading-notes/code-201-classes/class-11.html)
+
+[Class 12](https://anthonyjwest.github.io/reading-notes/code-201-classes/class-12.html)
+
+[Class 13](https://anthonyjwest.github.io/reading-notes/code-201-classes/class-13.html)
+
+[Class 14](https://anthonyjwest.github.io/reading-notes/code-201-classes/class-14.html)
+
+[Class 15](https://anthonyjwest.github.io/reading-notes/code-201-classes/class-15.html)
