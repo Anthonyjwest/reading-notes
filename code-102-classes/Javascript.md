@@ -14,3 +14,4 @@ The assignment operator is " = ". This operator assigns a variable to a certain 
 
 ## What is information received from the user called?
 
+When using the " prompt " command we can ask the user a question. When they answer we recieve there "input". This is the information they provided that we can use further in our code when set to a variable.
