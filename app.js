@@ -1,7 +1,7 @@
 'use strict'
 
 function theName(){
-    const username = prompt("What is your name?");
+    let username = prompt("What is your name?");
     if (username == "") {
         username = prompt("Please enter a valid name");
     } else if (username == "Cameron") {
