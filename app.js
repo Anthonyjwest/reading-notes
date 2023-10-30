@@ -26,3 +26,13 @@ function favteam(){
 
     alert("Thats Correct!");
 }
+
+
+function imgloop(){
+    let rating = prompt('How would you rate your teams performance so far this season? 1-5');
+
+    for (let i = 0; i < rating; i++){
+        document.write("<img src='touchdown.png' alt='Football pic'/>")
+    }
+
+}
