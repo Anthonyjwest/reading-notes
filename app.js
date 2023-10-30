@@ -17,9 +17,12 @@ function theName(){
 let theuser = theName();
 
 function favteam(){
-    if (confirm("Is your Favorite Team the Carolina Panthers?")) {
-        document.write("Yikes...Better luck next year &#128531");
-    } else {
-        document.write("I hope your team wins their next game!");
+    let answer = prompt('Who is my favoite team? Dont include city names');
+    while (answer.toLowerCase() != 'colts'){
+        answer = prompt('Oops try again!');
     }
+
+    console.log(answer)
+
+    alert("Thats Correct!");
 }
