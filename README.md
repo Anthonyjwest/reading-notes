@@ -8,7 +8,7 @@ This website is for my use during my classes at Code Fellows!
 
 ## Table of contents
 
-### Code 102 Reading Notes
+## Code 102 Reading Notes
 
 [Learning Markdown](https://anthonyjwest.github.io/reading-notes/code-102-classes/learning-markdown.html)
 
@@ -26,7 +26,7 @@ This website is for my use during my classes at Code Fellows!
 
 [Operators and loops](https://anthonyjwest.github.io/reading-notes/code-102-classes/Operators-loops.html)
 
-### Code 201 Reading notes
+## Code 201 Reading notes
 
 [Class 1](https://anthonyjwest.github.io/reading-notes/code-201-classes/class-1.html)
 
@@ -57,3 +57,5 @@ This website is for my use during my classes at Code Fellows!
 [Class 14](https://anthonyjwest.github.io/reading-notes/code-201-classes/class-14.html)
 
 [Class 15](https://anthonyjwest.github.io/reading-notes/code-201-classes/class-15.html)
+
+## Code 301 Reading Notes
