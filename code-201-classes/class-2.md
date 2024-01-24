@@ -6,7 +6,7 @@
 
 ## How many levels of headings are there in HTML?
 
-
+There are six heading levels. h1-h6
 
 ## What are some uses for the < sup > and < sub > elements?
 
