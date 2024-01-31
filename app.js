@@ -36,3 +36,14 @@ function imgloop(){
     }
 
 }
+
+let a = 10;
+let b = 'dog';
+let c = false;
+
+let z = (a + c) + b;
+
+console.log(z);
+
+document.write(z);
+
