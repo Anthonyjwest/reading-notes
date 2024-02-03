@@ -77,7 +77,7 @@ The else if is used when you want more than two outcomes in your else if stateme
 
 ## What is the difference between the logical operator && and ||?
 
-When using the logical operator "&&", we are testing if all expressions in statement evaluate to true for the entire expression to come back as true. When using the logical operator " || ", we are testing all the expressions to evaluate to true, if one or more come back true the whole expression will come back true.
+When using the logical operator "&&", we are testing if all expressions in statement evaluate to true for the entire expression to come back as true. When using the logical operator '   | |   ', we are testing all the expressions to evaluate to true, if one or more come back true the whole expression will come back true.
 
 ## Things I want to more know about
 
