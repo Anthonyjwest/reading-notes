@@ -24,8 +24,8 @@ When using this in a object literal it will refer to the object it is inside, bu
 
 ## Explain prototypes and inheritance via an analogy from your previous work experience
 
-a
+At an animal shelter where I used to work we would have multiple rooms set up for cats specifically, the prototype for "Catroom" would be mulitple kennels, food station, and cleaning supplies. Than for each room we would set up different cat names and locations specific to the room they were in. From each room we can have a "parent" that describes the types of kittens in each room. From elderly cats, sick cats, kittens, and medical cats. We can use inheritance to find the number of cats for each type there is in each individual room. The parent room "catrooms" contains all types of cats, than throguh each new "room" we can find out which types of cats are in each room.
 
 ## Things I want to know more about
 
-a
+Prototypes and constructors
